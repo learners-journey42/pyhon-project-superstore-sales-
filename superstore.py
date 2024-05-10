@@ -139,7 +139,9 @@ elif hypotheses == "The company's profit is more on weekdays than on weekends.":
 
     # Show the plot
     st.pyplot(plt.gcf())
-
+    st.write("Conclusion: The hypothesis is supported as weekday's have more profit than on weekends.")
+    
+     
     
     
     
